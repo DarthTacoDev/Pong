@@ -1,4 +1,4 @@
-Simple, janky pong game I made in P5.js
+Simple pong game I made in P5.js
 ***
 HOW TO PLAY:
 Left paddle is controlled with 'W' and 'S' <br/>
